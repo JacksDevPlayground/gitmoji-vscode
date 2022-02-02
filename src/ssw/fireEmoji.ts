@@ -3,7 +3,6 @@ import * as cp from "child_process";
 import { stderr } from "process";
 
 export default async function predict(commit: string) {
-  __dirname;
   return new Promise<string>((c, e)=> {
     cp.exec('dir');
     cp.exec(
