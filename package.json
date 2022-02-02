@@ -38,7 +38,7 @@
     "commands": [
       {
         "command": "extension.Gitmoji",
-        "title": "Gitmoji: Gitmoji tool for git commit messages in VS Code",
+        "title": "Gitmoji + SSW FireEmoji VS Code Extension",
         "icon": {
           "dark": "images/icon_dark.svg",
           "light": "images/icon_light.svg"
